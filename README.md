@@ -56,15 +56,11 @@ Urun stoklari, satis islemleri ve envanter takibinin yapildigi masaustu uygulama
 
 ### Ana Panel
 
-![Ana Panel](images/ana_panel.png)
+![Ana Panel](images/dashboard.png)
 
 ### Urun Ekleme
 
-![Urun Ekleme](images/urun_ekleme.png)
-
-### Satis Islemi
-
-![Satis Islemi](images/satis_islemi.png)
+![Urun Ekleme](images/urun_ekle.png)
 
 
 ## Kurulum ve Calistirma
